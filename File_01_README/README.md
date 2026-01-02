@@ -2,7 +2,7 @@
 
 ---
 
-![Customer Retention Ownership Pipeline](
+![Customer Retention Ownership Pipeline](https://github.com/78381507/customer_retention_ownership/blob/main/File_03_docs/retention_pipeline.png)
 
 > **About This README**  
 > This executive summary is designed to be read in **3 minutes** by decision-makers (CEOs, Heads of Data, Growth Directors). It explains **what metric this system owns**, **why it matters strategically**, and **how it drives business action**—without SQL or technical jargon. For detailed business logic, see `README_business.md`. For technical implementation, see `README_technical.md`.
