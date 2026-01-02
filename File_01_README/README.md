@@ -166,7 +166,8 @@ It shows:
 │   ├── 04_cohort_retention.sql
 │   └── 05_alert_logic.sql
 └── docs/
-    └── customer_retention_definition.pdf
+    ├── customer_retention_definition.pdf
+    └── retention_pipeline.png
 ```
 
 ---
