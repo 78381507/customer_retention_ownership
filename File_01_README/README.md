@@ -188,7 +188,7 @@ Contact for consulting engagements, metric audits, or retention system implement
 ## Author
 
 **François Tilkin**  
-Data Analytics Consultant | Customer Retention Ownership Specialist  
+Data Analyst | Customer Retention Ownership Specialist  
 [LinkedIn](https://linkedin.com/in/francoistilkin) | [Portfolio](https://github.com/francoistilkin)
 
 ---
