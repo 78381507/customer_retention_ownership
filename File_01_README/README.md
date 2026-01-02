@@ -189,7 +189,7 @@ Contact for consulting engagements, metric audits, or retention system implement
 
 **François Tilkin**  
 Data Analyst | Customer Retention Ownership Specialist  
-[LinkedIn](https://linkedin.com/in/francoistilkin) | [Portfolio](https://github.com/francoistilkin)
+[LinkedIn](https://www.linkedin.com/in/fran%C3%A7ois-tilkin-1667b138a/) | [Portfolio](https://github.com/78381507?tab=repositories)
 
 ---
 
